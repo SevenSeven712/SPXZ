@@ -1,66 +1,69 @@
 <div align="center">
+  
+  <!-- 你的头像（如果是圆角，使用了简单的内联样式） -->
+  <img src="https://github.com/SevenSeven712.png" width="120" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="SevenSeven712 Avatar" />
+  
   <h1>🎬 SPXZ - 国内短视频下载插件</h1>
-  <p>一个轻量、纯净、无广告的浏览器视频下载扩展</p>
 
-  <!-- 徽章区（你可以根据需要修改） -->
-  <a href="https://github.com/SevenSeven712/SPXZ/stargazers"><img src="https://img.shields.io/github/stars/SevenSeven712/SPXZ?style=flat-square&color=yellow" alt="Stars"></a>
-  <a href="https://github.com/SevenSeven712/SPXZ/releases"><img src="https://img.shields.io/github/v/release/SevenSeven712/SPXZ?style=flat-square&color=blue" alt="Release"></a>
-  <a href="https://github.com/SevenSeven712/SPXZ/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey?style=flat-square" alt="License"></a>
+  <!-- 动态打字机效果 -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0055FF&center=true&vCenter=true&width=500&lines=%E8%BD%BB%E9%87%8F%E3%80%81%E7%BA%AF%E5%87%80%E3%80%81%E6%97%A0%E5%B9%BF%E5%91%8A;%E4%B8%80%E9%94%AE%E8%A7%A3%E6%9E%90%E5%9B%BD%E5%86%85%E4%B8%BB%E6%B5%81%E7%9F%AD%E8%A7%86%E9%A2%91;%E8%AE%A9%E6%94%B6%E8%97%8F%E5%8F%98%E5%BE%97%E6%9B%B4%E7%AE%80%E5%8D%95" alt="Typing SVG" />
+  </a>
+
+  <!-- 徽章区 -->
+  <p>
+    <a href="https://github.com/SevenSeven712/SPXZ/stargazers"><img src="https://img.shields.io/github/stars/SevenSeven712/SPXZ?style=for-the-badge&color=yellow" alt="Stars"></a>
+    <a href="https://github.com/SevenSeven712/SPXZ/releases"><img src="https://img.shields.io/github/v/release/SevenSeven712/SPXZ?style=for-the-badge&color=blue" alt="Release"></a>
+    <a href="https://github.com/SevenSeven712/SPXZ/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey?style=for-the-badge" alt="License"></a>
+  </p>
+
+  <p>一个专为国内用户打造的浏览器扩展，让视频下载回归纯粹。</p>
 </div>
 
----
+<br/>
 
-## 📖 项目简介
+## 🌟 关于 SPXZ
 
-**SPXZ** 是一款专为国内用户打造的浏览器扩展插件。旨在帮助用户轻松、快捷地下载各大自媒体平台上的免费短视频，方便个人收藏、学习与离线观看。
+**SPXZ** 是一款极简的浏览器短视频下载扩展。无需繁琐的复制粘贴，告别烦人的水印和广告。打开页面，点击解析，一键保存，给你最丝滑的离线收藏体验。
 
-无需复杂的操作，安装后即可一键解析并下载无水印高清视频。
+## ✨ 核心亮点
 
-## ✨ 核心特性
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🚀 极速解析</h3>
+      <p>智能嗅探页面视频流<br>点击瞬间完成解析</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>💧 无水印原画</h3>
+      <p>绕过平台压制<br>直取最高清无水印源</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🍃 纯净无广</h3>
+      <p>无弹窗、不追踪<br>开源透明，安全放心</p>
+    </td>
+  </tr>
+</table>
 
-- 🚀 **一键极速解析**：在视频页面点击插件，自动识别并解析视频源。
-- 💧 **支持无水印下载**：尽可能为你保留最原始的高清画质。
-- 🍃 **纯净无广告**：没有任何弹窗广告，不收集个人隐私，完全免费。
-- 📦 **轻量级**：不占用电脑内存，随开随用。
-- 📱 **多平台支持**：支持包括 抖音、快手、B站、小红书 等主流国内自媒体平台（*注：具体支持情况视平台更新而定*）。
+> 💡 **多平台支持**：目前兼容抖音、快手、B站、小红书等主流自媒体平台。*(具体支持情况视各大平台前端更新而定)*
 
-## 🛠️ 安装教程
+## 🛠️ 极速安装指南
 
-因为插件目前可能尚未上架官方应用商店，你可以通过以下“开发者模式”进行本地安装：
+由于扩展尚未上架应用商店，请通过“开发者模式”进行本地安装：
 
-1. 点击本页面右侧的 [Releases](https://github.com/SevenSeven712/SPXZ/releases) 标签。
-2. 下载最新版本的 `.zip` 压缩包并解压到一个文件夹中。
-3. 打开你的浏览器（Chrome、Edge 等 Chromium 内核浏览器）。
-4. 在地址栏输入 `chrome://extensions/` （Edge 为 `edge://extensions/`）并回车。
-5. 打开右上角的 **“开发者模式”** 开关。
-6. 点击左上角的 **“加载已解压的扩展程序”**。
-7. 选择你刚才解压出来的那个文件夹，即可完成安装！
+1. 前往本仓库的 [Releases](https://github.com/SevenSeven712/SPXZ/releases) 页面，下载最新版的 `.zip` 压缩包。
+2. 将压缩包**解压**到一个你熟知的文件夹中。
+3. 打开浏览器（Chrome / Edge / 360 等 Chromium 内核浏览器），在地址栏输入：
+   - Chrome：`chrome://extensions/`
+   - Edge：`edge://extensions/`
+4. 在扩展页面右上角，开启 **“开发者模式”** 开关。
+5. 点击左上角的 **“加载已解压的扩展程序”**。
+6. 选中你刚才解压出来的那个文件夹（确保里面包含 `manifest.json` 文件），完成安装！
 
-## 🚀 使用说明
+## 🚀 怎么使用？
 
-1. 在浏览器右上角的扩展栏中找到并固定 **SPXZ** 插件。
-2. 打开你想要下载的短视频页面。
-3. 点击插件图标，等待解析完成。
-4. 点击下载按钮，视频就会保存到你的电脑中。
-
-## ⚠️ 免责声明
-
-1. 本插件仅供个人学习、研究和交流使用，**请勿用于任何商业用途**。
-2. 下载的视频版权归原作者及原平台所有，请尊重原创，切勿随意传播或盗用。
-3. 使用本插件产生的任何版权纠纷或法律责任，由使用者自行承担，开发者不承担任何连带责任。
-
-## ⚖️ 开源协议
-
-本项目采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 协议开源。
-- **BY（署名）**：使用或分享时，必须保留原作者署名。
-- **NC（非商业性使用）**：严禁将本项目用于任何商业盈利目的。
-- **ND（禁止演绎）**：严禁对本项目代码进行修改后二次发布（禁止二创）。
-
-## 💬 反馈与交流
-
-如果你在使用过程中遇到任何 Bug，或者有希望新增的平台，欢迎在 [Issues](https://github.com/SevenSeven712/SPXZ/issues) 页面提交反馈。
-
----
-<div align="center">
-  <i>如果这个项目对你有帮助，欢迎点个 ⭐ Star 支持一下！</i>
-</div>
+```mermaid
+graph LR
+A[打开短视频网页] --> B(点击浏览器右上角 SPXZ 图标)
+B --> C{等待解析完成}
+C --> D[点击下载保存至本地]
