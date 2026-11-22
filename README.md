@@ -1,7 +1,7 @@
 <div align="center">
   
-  <!-- 你的头像（如果是圆角，使用了简单的内联样式） -->
-  <img src="https://github.com/SevenSeven712.png" width="120" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="SevenSeven712 Avatar" />
+  <!-- 你的头像 (PNG 图片，GitHub 会自动处理成圆角) -->
+  <img src="https://github.com/SevenSeven712.png" width="120" alt="SevenSeven712 Avatar" />
   
   <h1>🎬 SPXZ - 国内短视频下载插件</h1>
 
@@ -64,6 +64,6 @@
 
 ```mermaid
 graph LR
-A[打开短视频网页] --> B(点击浏览器右上角 SPXZ 图标)
-B --> C{等待解析完成}
-C --> D[点击下载保存至本地]
+A["1. 打开短视频网页"] --> B("2. 点击右上角图标")
+B --> C{"3. 等待解析完成"}
+C --> D["4. 点击下载保存"]
